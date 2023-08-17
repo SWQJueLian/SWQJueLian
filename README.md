@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=coding...)](https://git.io/typing-svg)
 
+<!-- programming tool icon 编程工具图标 -->
+<img src="https://skillicons.dev/icons?i=python,flask,django,docker,kubernetes,jenkins,vue,js,selenium,linux,nginx,mysql,redis,mongodb" /><br>
+  
 <!--
 **SWQJueLian/SWQJueLian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
