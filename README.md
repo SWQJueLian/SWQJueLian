@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=coding...)](https://git.io/typing-svg)
 
 - ⚡ 目前核心技能 `python后端web开发` `前端vue2/vue3` `K8S` `Linux` `python爬虫` <del>`java(忘记了...都10年了)`</del>
-- 😄 持证上岗：`CKA（K8S运维管理员）`、`CKS（K8S运维安管管理专家）`、`高级&中级网络管理`
+- 😄 持证上岗：`CKA（K8S运维管理员）`、`CKS（K8S安全运维管理专家）`、`高级&中级网络管理`
 - 🌱 常用编程语言、工具：
 <!-- programming tool icon 编程工具图标 -->
 <img src="https://skillicons.dev/icons?i=python,flask,django,docker,kubernetes,jenkins,vue,js,selenium,linux,nginx,mysql,redis,mongodb" /><br>
